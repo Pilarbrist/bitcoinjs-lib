@@ -62,7 +62,7 @@
     "randombytes": "^2.0.1",
     "tiny-secp256k1": "^1.1.6",
     "typeforce": "^1.11.3",
-    "varuint-bitcoin": "^1.0.4",
+    "varuint-bitcoin": "^1.1.2",
     "wif": "^2.0.1"
   },
   "devDependencies": {
